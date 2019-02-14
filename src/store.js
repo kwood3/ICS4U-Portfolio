@@ -25,7 +25,7 @@ export default new Vuex.Store({
       for (const article of state.articles) {
         if (
           !article.category ||
-          categories.includes(article.category)
+          categories.find(category => category.text === article.category)
         ) continue
 
         const text = article.category
