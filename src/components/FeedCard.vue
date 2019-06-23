@@ -39,16 +39,6 @@
               {{ value.author }}<br>Date
             </div>
           </v-flex>
-          <v-flex align-self-end>
-            <v-chip
-              class="text-uppercase ma-0"
-              color="primary"
-              label
-              small
-              @click.stop=""
-            >
-            </v-chip>
-          </v-flex>
         </v-layout>
       </v-img>
     </base-card>
