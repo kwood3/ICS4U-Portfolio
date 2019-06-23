@@ -47,7 +47,6 @@
               small
               @click.stop=""
             >
-              Read More
             </v-chip>
           </v-flex>
         </v-layout>

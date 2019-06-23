@@ -7,7 +7,7 @@
     <v-container mx-auto>
       <v-layout wrap>
         <v-flex xs9>
-          <base-btn
+          <!-- <base-btn 
             v-for="(item, i) in items"
             :key="i"
             :href="item.href"
@@ -17,7 +17,8 @@
             target="_blank"
           >
             <v-icon v-text="item.icon" />
-          </base-btn>
+          </base-btn> -->
+            Koby Wood - 2019
         </v-flex>
         <v-spacer />
         <base-btn
