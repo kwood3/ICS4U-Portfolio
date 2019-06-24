@@ -1,3 +1,3 @@
 ## ICS4U-Portfolio : Koby W.
 
-### This is a template for the Vue.js framework, original code can be found here:
+### This project was developed in Vue.js alongside a few other libraries such as node.js, vuex, and vuetify.
