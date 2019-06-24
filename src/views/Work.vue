@@ -1,5 +1,5 @@
 <template>
-    <div class="team">
+    <div class="Work">
         <h1  class="subheading grey--text mx-5">My Work</h1>
 
         <v-container class="my-5">

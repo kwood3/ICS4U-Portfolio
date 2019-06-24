@@ -7,7 +7,7 @@
       :height="value.prominent ? 450 : 350"
       color="grey lighten-1"
       dark
-      href="#!"
+      href="/Work"
     >
       <v-img
         :src="require(`@/assets/articles/${value.hero}`)"
@@ -36,7 +36,6 @@
               {{ value.title }}
             </h3>
             <div class="caption">
-              {{ value.author }}<br>Date
             </div>
           </v-flex>
         </v-layout>
